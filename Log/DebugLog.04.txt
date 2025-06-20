@@ -1,0 +1,3 @@
+Logging started for program DebugLog on host qcs6490-odk at Wed Jun 18 2025 15:59:36.113781 (this log file is /home/fibo/Desktop/yolov8/Log/DebugLog.04.txt)
+16:02:34.212508929 [USER_ERROR:DNN_RUNTIME] DEFAULT:0 error code = 6002; QnnContext_free() failed; QNN_CONTEXT_ERROR_INVALID_HANDLE: Invalid/NULL QNN context handle
+Logging stopped at Wed Jun 18 2025 16:02:34.242080
