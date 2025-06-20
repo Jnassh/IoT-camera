@@ -1,0 +1,7 @@
+2024-01-15 08:30:15, 检测到动物: Dog, 置信度: 0.95, 位置: (120, 150), 状态: 正常, /home/fibo/Desktop/yolov8/outputs/dog_001.jpg
+2024-01-15 09:15:22, 检测到动物: Cat, 置信度: 0.87, 位置: (200, 180), 状态: 正常, /home/fibo/Desktop/yolov8/outputs/cat_001.jpg
+2024-01-15 10:45:33, 检测到动物: Bird, 置信度: 0.92, 位置: (80, 90), 状态: 正常, /home/fibo/Desktop/yolov8/outputs/bird_001.jpg
+2024-01-15 11:20:18, 检测到动物: Dog, 置信度: 0.78, 位置: (150, 200), 状态: 异常-受伤, /home/fibo/Desktop/yolov8/outputs/dog_002.jpg
+2024-01-15 14:30:45, 检测到动物: Cat, 置信度: 0.89, 位置: (180, 160), 状态: 正常, /home/fibo/Desktop/yolov8/outputs/cat_002.jpg
+2024-01-15 16:15:12, 检测到动物: Bird, 置信度: 0.94, 位置: (100, 120), 状态: 正常, /home/fibo/Desktop/yolov8/outputs/bird_002.jpg
+2024-01-15 18:45:30, 检测到动物: Dog, 置信度: 0.91, 位置: (130, 170), 状态: 正常, /home/fibo/Desktop/yolov8/outputs/dog_003.jpg 2025-06-18 20:40:37, 检测到: person(ID:1), 图片: outputs/frame_1750250437.jpg
